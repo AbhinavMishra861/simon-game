@@ -1,0 +1,28 @@
+The Simon Game is a classic memory-based game where the player must mimic an ever-growing sequence of colors and sounds. This project is a web-based implementation of the game using HTML, CSS, and JavaScript.
+
+🚀 Features
+Interactive UI with colorful buttons and sound feedback
+
+Sequence generation that gets longer with each correct level
+
+Real-time input validation and score tracking
+
+Game-over detection with restart option
+
+Fully responsive design — playable on both desktop and mobile
+
+🧠 How to Play
+The game will display a sequence of colors, starting with one.
+
+Your goal is to click the buttons in the same order.
+
+With each correct level, a new color will be added to the sequence.
+
+If you press the wrong color, the game ends and resets.
+
+🛠️ Tech Stack
+HTML — for structure
+
+CSS — for styling and layout
+
+JavaScript — for game logic and interactivity
